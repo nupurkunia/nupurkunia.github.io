@@ -2,7 +2,7 @@
 title:  "Exploring Goa: The most happening place in India!"
 subtitle: "Travelbyme!"
 author: "Nupur Jainkunia"
-avatar: "img/Nupurgoa.jpeg"
+avatar: "img/Nupurgoa.jpg"
 image: "img/Palolem beach.jpg"
 date:   2019-03-27 12:12:12
 ---
@@ -27,8 +27,6 @@ AromBOL Beach
 Agonda Beach
 Sinquerim Beach
 
-image: "img/Home_22.jpg"
-
 ### Luxury Resorts/Hotels: 
 If you planning your trip anytime soon then be careful. It's very hot in the summers. Goa is also well known for luxury resorts and hotels located on the beach. Few of the most exciting and famous properties having access to the private beach are listed below:
 ### The LaLiT Golf and Spa Resort, Goa: 
@@ -48,8 +46,6 @@ You can also try Marbela Beach Resort, Seashell Suites and Villas.
 If you want to enjoy the Greek atmosphere then visit Thalassa located in Teso Waterfront in Siolim. It offers you the wonderful sunsets in Goa.
 ### Water sports: 
 Water Sports in Goa are worth experiencing specially Banana ride at Baga beach. Also, Parasailing is something that one should experience.
-
-image:img/"Parasailing_In_Goa.jpg"
 
 ### Night market: 
 Every Wednesday, Anjuna Beach plays host to the local flea market. 
