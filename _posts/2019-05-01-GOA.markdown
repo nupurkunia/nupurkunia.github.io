@@ -2,7 +2,7 @@
 title:  "Exploring Goa: The most happening place in India!"
 subtitle: "Travelbyme!"
 author: "Nupur Jainkunia"
-avatar: "img/Nupurgoa.jpg"
+avatar: "img/nupurgoa.jpg"
 image: "img/Palolem beach.jpg"
 date:   2019-03-27 12:12:12
 ---
