@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
+title: Travel By Me
 description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+keywords: Travel, Blogging, Fun
+author: Nupur Jainkuniya
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://nupurkunia.github.io" # the base hostname & protocol for your site
