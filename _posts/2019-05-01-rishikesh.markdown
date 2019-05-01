@@ -2,7 +2,7 @@
 title:  "Around Rishikesh in 72 hours!"
 subtitle: "Travelbyme!"
 author: "Nupur Jainkunia"
-avatar: "img/Rishikesh.jpeg"
+avatar: "img/nupur.jpeg"
 image: "img/Rishikesh.jpeg"
 date:   2019-02-27 12:12:12
 ---
