@@ -27,7 +27,7 @@ AromBOL Beach
 Agonda Beach
 Sinquerim Beach
 
-![](../img/home.jpg)
+<img width="540" height="auto" border="0" align="center"  src="../img/home.jpg"/>
 
 ### Luxury Resorts/Hotels: 
 If you planning your trip anytime soon then be careful. It's very hot in the summers. Goa is also well known for luxury resorts and hotels located on the beach. Few of the most exciting and famous properties having access to the private beach are listed below:
@@ -49,7 +49,7 @@ If you want to enjoy the Greek atmosphere then visit Thalassa located in Teso Wa
 ### Water sports: 
 Water Sports in Goa are worth experiencing specially Banana ride at Baga beach. Also, Parasailing is something that one should experience.
 
-![](../img/parasailing.jpg)
+<img width="540" height="auto" border="0" align="center"  src="../img/parasailing.jpg"/>
 
 ### Night market: 
 Every Wednesday, Anjuna Beach plays host to the local flea market. 
