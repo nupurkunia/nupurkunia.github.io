@@ -2,8 +2,8 @@
 title:  "Around Rishikesh in 72 hours!"
 subtitle: "Travelbyme!"
 author: "Nupur Jainkunia"
-avatar: "WhatsApp Image 2019-05-01 at 3.26.24 PM.jpeg"
-image: "WhatsApp Image 2019-05-01 at 3.26.24 PM.jpeg"
+avatar: "img/Rishikesh.jpeg"
+image: "img/Rishikesh.jpeg"
 date:   2019-02-27 12:12:12
 ---
 
